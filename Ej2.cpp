@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 
-    cout << "Examen Final Prog 3" << endl;
+    cout << "Ejercicio N° 2" << endl;
 
     return 0;
 }
